@@ -1,0 +1,11 @@
+@import 'modules/color';
+$theme-font: verdana, sans-serif;
+
+body {
+  font: $theme-font;
+  
+  div {
+    // color: blue;
+    color: $color-primary-1
+  }
+}
